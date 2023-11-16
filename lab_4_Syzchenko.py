@@ -19,9 +19,9 @@ else:
 
 flower = input()
 
-if flower = 'Spathiphyllum':
+if flower == 'Spathiphyllum':
     print('Yes - Spathiphyllum is the best plant ever!')
-elif flower = 'spathiphyllum':
+elif flower == 'spathiphyllum':
     print('No, I want a big Spathiphyllum!')
 else:
     print(f'Spathiphyllum! Not {flower}!')
